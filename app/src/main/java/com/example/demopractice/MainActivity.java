@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         n2=findViewById(R.id.num2);
         sum=findViewById(R.id.add);
         result=findViewById(R.id.res);
+        
+        //change is made
 
 
         sum.setOnClickListener(new View.OnClickListener() {
