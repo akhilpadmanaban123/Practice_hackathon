@@ -15,7 +15,7 @@
         android:id="@+id/add"
         android:id="@color/magenta"
         android:id="">
-       //hi
+       //hi man!
         
     </Button>
     <EditText
